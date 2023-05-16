@@ -1,6 +1,3 @@
-// 20230516233621
-// https://json.schemastore.org/pyproject.json
-
 {
   "$comment": "there are multiple resources describing pyproject.toml. The canonical reference is at https://packaging.python.org/en/latest/specifications/declaring-project-metadata/, which refers to multiple proposals such as PEP 517, PEP 518 and PEP 621",
   "$id": "https://json.schemastore.org/pyproject.json",
